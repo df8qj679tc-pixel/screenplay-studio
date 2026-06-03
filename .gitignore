@@ -1,0 +1,13 @@
+node_modules/
+dist/*.map
+*.exe
+*.dll
+*.pak
+*.bin
+*.dat
+*.sqlite
+*.log
+Screenplay Studio Data/
+resources/app.asar.unpacked/
+.DS_Store
+Thumbs.db
